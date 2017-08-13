@@ -1,0 +1,7 @@
+public class people
+{
+  int age;
+  string name;
+  public void Eat(){
+  }
+}
